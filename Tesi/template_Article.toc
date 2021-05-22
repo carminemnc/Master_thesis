@@ -1,0 +1,6 @@
+\contentsline {section}{\numberline {1}Dati e metodologie}{2}{}%
+\contentsline {subsection}{\numberline {1.1}Pairs Selection}{2}{}%
+\contentsline {subsection}{\numberline {1.2}Cointegration Test}{3}{}%
+\contentsline {section}{\numberline {2}Pairs trading}{3}{}%
+\contentsline {subsection}{\numberline {2.1}Co-integration based approach}{3}{}%
+\contentsline {subsection}{\numberline {2.2}Kalman Filter approach}{4}{}%
