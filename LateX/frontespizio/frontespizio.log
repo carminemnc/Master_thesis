@@ -1,0 +1,179 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2021.4.7)  23 JUN 2021 19:09
+entering extended mode
+**./frontespizio.tex
+(frontespizio.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-02-18>
+(/Users/carmineminichini/Library/Application Support/MiKTeX/texmfs/install/tex/
+latex/base/book.cls
+Document Class: book 2020/04/10 v1.4m Standard LaTeX document class
+
+(/Users/carmineminichini/Library/Application Support/MiKTeX/texmfs/install/tex/
+latex/base/bk10.clo
+File: bk10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count179
+\c@chapter=\count180
+\c@section=\count181
+\c@subsection=\count182
+\c@subsubsection=\count183
+\c@paragraph=\count184
+\c@subparagraph=\count185
+\c@figure=\count186
+\c@table=\count187
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(/Users/carmineminichini/Library/Application Support/MiKTeX/texmfs/install/tex/
+latex/frontespizio/frontespizio.sty
+Package: frontespizio 2011/09/21 1.4a (Enrico Gregorio)
+
+(/Users/carmineminichini/Library/Application Support/MiKTeX/texmfs/install/tex/
+latex/latex-tools/afterpage.sty
+Package: afterpage 2014/10/28 v1.08 After-Page Package (DPC)
+\AP@output=\toks15
+\AP@partial=\box47
+\AP@footins=\box48
+)
+(/Users/carmineminichini/Library/Application Support/MiKTeX/texmfs/install/tex/
+latex/graphics/graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/Users/carmineminichini/Library/Application Support/MiKTeX/texmfs/install/tex/
+latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(/Users/carmineminichini/Library/Application Support/MiKTeX/texmfs/install/tex/
+latex/graphics/graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+
+(/Users/carmineminichini/Library/Application Support/MiKTeX/texmfs/install/tex/
+latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/Users/carmineminichini/Library/Application Support/MiKTeX/texmfs/install/tex/
+latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(/Users/carmineminichini/Library/Application Support/MiKTeX/texmfs/install/tex/
+latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+)
+(/Users/carmineminichini/Library/Application Support/MiKTeX/texmfs/install/tex/
+latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi packa
+ge
+with kernel methods
+)
+(/Users/carmineminichini/Library/Application Support/MiKTeX/texmfs/install/tex/
+latex/environ/environ.sty
+Package: environ 2014/05/04 v0.3 A new way to define environments
+
+(/Users/carmineminichini/Library/Application Support/MiKTeX/texmfs/install/tex/
+latex/trimspaces/trimspaces.sty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+)
+\@envbody=\toks17
+)
+(/Users/carmineminichini/Library/Application Support/MiKTeX/texmfs/install/tex/
+generic/iftex/ifpdf.sty
+Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
+
+(/Users/carmineminichini/Library/Application Support/MiKTeX/texmfs/install/tex/
+generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+(/Users/carmineminichini/Library/Application Support/MiKTeX/texmfs/install/tex/
+generic/iftex/ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+)
+\front@out=\write3
+\openout3 = `frontespizio-frn.tex'.
+
+)
+(/Users/carmineminichini/Library/Application Support/MiKTeX/texmfs/install/tex/
+latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2021-03-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count188
+\l__pdf_internal_box=\box49
+) (frontespizio.aux)
+\openout1 = `frontespizio.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+
+(/Users/carmineminichini/Library/Application Support/MiKTeX/texmfs/install/tex/
+context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count189
+\scratchdimen=\dimen141
+\scratchbox=\box50
+\nofMPsegments=\count190
+\nofMParguments=\count191
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count192
+\MPscratchDim=\dimen142
+\MPnumerator=\count193
+\makeMPintoPDFobject=\count194
+\everyMPtoPDFconversion=\toks19
+)
+(/Users/carmineminichini/Library/Application Support/MiKTeX/texmfs/install/tex/
+latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/Users/carmineminichini/Library/Application Support/MiKTeX/texmfs/install/tex/
+latex/00miktex/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+<frontespizio-frn.pdf, id=1, 597.50829pt x 845.0471pt>
+File: frontespizio-frn.pdf Graphic file (type pdf)
+<use frontespizio-frn.pdf>
+Package pdftex.def Info: frontespizio-frn.pdf  used on input line 6.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+ [1
+
+
+ <./frontespizio-frn.pdf{/Users/carmineminichini/Library/Application Support/Mi
+KTeX/texmfs/data/pdftex/config/pdftex.map}>] (frontespizio.aux) ) 
+Here is how much of TeX's memory you used:
+ 1467 strings out of 481257
+ 24905 string characters out of 2905281
+ 300781 words of memory out of 3000000
+ 18709 multiletter control sequences out of 15000+600000
+ 403430 words of font info for 27 fonts, out of 8000000 for 9000
+ 0 hyphenation exceptions out of 8191
+ 83i,10n,88p,217b,206s stack positions out of 5000i,500n,10000p,200000b,80000s
+</Users/carmin
+eminichini/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public
+/amsfonts/cm/cmbx12.pfb></Users/carmineminichini/Library/Application Support/Mi
+KTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx9.pfb></Users/carminemin
+ichini/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/ams
+fonts/cm/cmr10.pfb></Users/carmineminichini/Library/Application Support/MiKTeX/
+texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb>
+Output written on frontespizio.pdf (1 page, 129969 bytes).
+PDF statistics:
+ 33 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+
