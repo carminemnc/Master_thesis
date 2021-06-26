@@ -1,0 +1,36 @@
+\contentsline {figure}{\numberline {1}{\ignorespaces \textbf {Diagramma di uno State space model}\relax }}{9}{figure.caption.4}%
+\contentsline {figure}{\numberline {2}{\ignorespaces \textbf {Formation Period}\relax }}{16}{figure.caption.5}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {logaritmo naturale dei prezzi}}}{16}{figure.caption.5}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {$\Delta $ del logaritmo naturale dei prezzi }}}{16}{figure.caption.5}%
+\contentsline {figure}{\numberline {3}{\ignorespaces \textbf {Spread per le tre metodologie,DIA.MI-AMP.MI}\relax }}{29}{figure.caption.19}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Kalman Filter spread}}}{29}{figure.caption.19}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Cointegration Spread}}}{29}{figure.caption.19}%
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Rolling Regression Spread}}}{29}{figure.caption.19}%
+\contentsline {figure}{\numberline {4}{\ignorespaces \textbf {Alpha e Beta, DIA.MI - AMP.MI}\relax }}{30}{figure.caption.20}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {\textbf {$\alpha $}}}}{30}{figure.caption.20}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {\textbf {$\beta $}}}}{30}{figure.caption.20}%
+\contentsline {figure}{\numberline {5}{\ignorespaces \textbf {P\&L, DIA.MI-AMP.MI}\relax }}{30}{figure.caption.21}%
+\contentsline {figure}{\numberline {6}{\ignorespaces \textbf {Spread per le tre metodologie,UCG.MI-BPE.MI}\relax }}{33}{figure.caption.23}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Kalman Filter spread}}}{33}{figure.caption.23}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Cointegration Spread}}}{33}{figure.caption.23}%
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Rolling Regression Spread}}}{33}{figure.caption.23}%
+\contentsline {figure}{\numberline {7}{\ignorespaces \textbf {Alpha e Beta,UCG.MI-BPE.MI}\relax }}{34}{figure.caption.24}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {\textbf {$\alpha $}}}}{34}{figure.caption.24}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {\textbf {$\beta $}}}}{34}{figure.caption.24}%
+\contentsline {figure}{\numberline {8}{\ignorespaces \textbf {P\&L,UCG.MI-BPE.MI}\relax }}{34}{figure.caption.25}%
+\contentsline {figure}{\numberline {9}{\ignorespaces \textbf {Spread per le tre metodologie,BMED.MI-BGN.MI}\relax }}{37}{figure.caption.27}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Kalman Filter spread}}}{37}{figure.caption.27}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Cointegration Spread}}}{37}{figure.caption.27}%
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Rolling Regression Spread}}}{37}{figure.caption.27}%
+\contentsline {figure}{\numberline {10}{\ignorespaces \textbf {Alpha e Beta,BMED.MI-BGN.MI}\relax }}{38}{figure.caption.28}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {\textbf {$\alpha $}}}}{38}{figure.caption.28}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {\textbf {$\beta $}}}}{38}{figure.caption.28}%
+\contentsline {figure}{\numberline {11}{\ignorespaces \textbf {P\&L,BMED.MI-BGN.MI}\relax }}{38}{figure.caption.29}%
+\contentsline {figure}{\numberline {12}{\ignorespaces \textbf {Spread per le tre metodologie,BMED.MI-AZM.MI}\relax }}{41}{figure.caption.31}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Kalman Filter spread}}}{41}{figure.caption.31}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Cointegration Spread}}}{41}{figure.caption.31}%
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Rolling Regression Spread}}}{41}{figure.caption.31}%
+\contentsline {figure}{\numberline {13}{\ignorespaces \textbf {Alpha e Beta,BMED.MI-AZM.MI}\relax }}{42}{figure.caption.32}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {\textbf {$\alpha $}}}}{42}{figure.caption.32}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {\textbf {$\beta $}}}}{42}{figure.caption.32}%
+\contentsline {figure}{\numberline {14}{\ignorespaces \textbf {P\&L,BMED.MI-AZM.MI}\relax }}{42}{figure.caption.33}%

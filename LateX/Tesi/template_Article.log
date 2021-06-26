@@ -1,0 +1,1669 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2021.4.7)  26 JUN 2021 07:02
+entering extended mode
+**./template_Article.tex
+(template_Article.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-02-18>
+(/Users/carmineminichini/Library/Application Support/MiKTeX/texmfs/install/tex/
+latex/base/article.cls
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+
+(/Users/carmineminichini/Library/Application Support/MiKTeX/texmfs/install/tex/
+latex/base/size10.clo
+File: size10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count179
+\c@section=\count180
+\c@subsection=\count181
+\c@subsubsection=\count182
+\c@paragraph=\count183
+\c@subparagraph=\count184
+\c@figure=\count185
+\c@table=\count186
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(/Users/carmineminichini/Library/Application Support/MiKTeX/texmfs/install/tex/
+latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen139
+\lightrulewidth=\dimen140
+\cmidrulewidth=\dimen141
+\belowrulesep=\dimen142
+\belowbottomsep=\dimen143
+\aboverulesep=\dimen144
+\abovetopsep=\dimen145
+\cmidrulesep=\dimen146
+\cmidrulekern=\dimen147
+\defaultaddspace=\dimen148
+\@cmidla=\count187
+\@cmidlb=\count188
+\@aboverulesep=\dimen149
+\@belowrulesep=\dimen150
+\@thisruleclass=\count189
+\@lastruleclass=\count190
+\@thisrulewidth=\dimen151
+)
+(/Users/carmineminichini/Library/Application Support/MiKTeX/texmfs/install/tex/
+latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(/Users/carmineminichini/Library/Application Support/MiKTeX/texmfs/install/tex/
+latex/amsmath/amsmath.sty
+Package: amsmath 2020/09/23 v2.17i AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+
+(/Users/carmineminichini/Library/Application Support/MiKTeX/texmfs/install/tex/
+latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/Users/carmineminichini/Library/Application Support/MiKTeX/texmfs/install/tex/
+latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks15
+\ex@=\dimen152
+))
+(/Users/carmineminichini/Library/Application Support/MiKTeX/texmfs/install/tex/
+latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen153
+)
+(/Users/carmineminichini/Library/Application Support/MiKTeX/texmfs/install/tex/
+latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count191
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count192
+\leftroot@=\count193
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count194
+\DOTSCASE@=\count195
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box47
+\strutbox@=\box48
+\big@size=\dimen154
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count196
+\c@MaxMatrixCols=\count197
+\dotsspace@=\muskip16
+\c@parentequation=\count198
+\dspbrk@lvl=\count199
+\tag@help=\toks16
+\row@=\count266
+\column@=\count267
+\maxfields@=\count268
+\andhelp@=\toks17
+\eqnshift@=\dimen155
+\alignsep@=\dimen156
+\tagshift@=\dimen157
+\tagwidth@=\dimen158
+\totwidth@=\dimen159
+\lineht@=\dimen160
+\@envbody=\toks18
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+)
+(/Users/carmineminichini/Library/Application Support/MiKTeX/texmfs/install/tex/
+latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/Users/carmineminichini/Library/Application Support/MiKTeX/texmfs/install/tex/
+latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/Users/carmineminichini/Library/Application Support/MiKTeX/texmfs/install/tex/
+latex/graphics/graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/Users/carmineminichini/Library/Application Support/MiKTeX/texmfs/install/tex/
+latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks20
+)
+(/Users/carmineminichini/Library/Application Support/MiKTeX/texmfs/install/tex/
+latex/graphics/graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+
+(/Users/carmineminichini/Library/Application Support/MiKTeX/texmfs/install/tex/
+latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/Users/carmineminichini/Library/Application Support/MiKTeX/texmfs/install/tex/
+latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(/Users/carmineminichini/Library/Application Support/MiKTeX/texmfs/install/tex/
+latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen161
+\Gin@req@width=\dimen162
+)
+(/Users/carmineminichini/Library/Application Support/MiKTeX/texmfs/install/tex/
+latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/Users/carmineminichini/Library/Application Support/MiKTeX/texmfs/install/tex/
+generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(/Users/carmineminichini/Library/Application Support/MiKTeX/texmfs/install/tex/
+generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count269
+\Gm@cntv=\count270
+\c@Gm@tempcnt=\count271
+\Gm@bindingoffset=\dimen163
+\Gm@wd@mp=\dimen164
+\Gm@odd@mp=\dimen165
+\Gm@even@mp=\dimen166
+\Gm@layoutwidth=\dimen167
+\Gm@layoutheight=\dimen168
+\Gm@layouthoffset=\dimen169
+\Gm@layoutvoffset=\dimen170
+\Gm@dimlist=\toks21
+
+(/Users/carmineminichini/Library/Application Support/MiKTeX/texmfs/install/tex/
+latex/geometry/geometry.cfg))
+(/Users/carmineminichini/Library/Application Support/MiKTeX/texmfs/install/tex/
+latex/caption/caption.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+
+(/Users/carmineminichini/Library/Application Support/MiKTeX/texmfs/install/tex/
+latex/caption/caption3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen171
+\captionmargin@=\dimen172
+\captionwidth=\dimen173
+\caption@tempdima=\dimen174
+\caption@indent=\dimen175
+\caption@parindent=\dimen176
+\caption@hangindent=\dimen177
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count272
+\c@continuedfloat=\count273
+)
+(/Users/carmineminichini/Library/Application Support/MiKTeX/texmfs/install/tex/
+latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/Users/carmineminichini/Library/Application Support/MiKTeX/texmfs/install/tex/
+latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+(/Users/carmineminichini/Library/Application Support/MiKTeX/texmfs/install/tex/
+latex/colortbl/colortbl.sty
+Package: colortbl 2020/01/04 v1.0e Color table columns (DPC)
+
+(/Users/carmineminichini/Library/Application Support/MiKTeX/texmfs/install/tex/
+latex/latex-tools/array.sty
+Package: array 2020/10/01 v2.5c Tabular extension package (FMi)
+\col@sep=\dimen178
+\ar@mcellbox=\box49
+\extrarowheight=\dimen179
+\NC@list=\toks22
+\extratabsurround=\skip52
+\backup@length=\skip53
+\ar@cellbox=\box50
+)
+\everycr=\toks23
+\minrowclearance=\skip54
+)
+\rownum=\count274
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+
+(/Users/carmineminichini/Library/Application Support/MiKTeX/texmfs/install/tex/
+latex/xcolor/svgnam.def
+File: svgnam.def 2016/05/11 v2.12 Predefined colors according to SVG 1.1 (UK)
+))
+(/Users/carmineminichini/Library/Application Support/MiKTeX/texmfs/install/tex/
+latex/listings/listings.sty
+\lst@mode=\count275
+\lst@gtempboxa=\box51
+\lst@token=\toks24
+\lst@length=\count276
+\lst@currlwidth=\dimen180
+\lst@column=\count277
+\lst@pos=\count278
+\lst@lostspace=\dimen181
+\lst@width=\dimen182
+\lst@newlines=\count279
+\lst@lineno=\count280
+\lst@maxwidth=\dimen183
+
+(/Users/carmineminichini/Library/Application Support/MiKTeX/texmfs/install/tex/
+latex/listings/lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count281
+\lst@skipnumbers=\count282
+\lst@framebox=\box52
+)
+(/Users/carmineminichini/Library/Application Support/MiKTeX/texmfs/install/tex/
+latex/listings/listings.cfg
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+
+(/Users/carmineminichini/Library/Application Support/MiKTeX/texmfs/install/tex/
+latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count283
+\float@exts=\toks25
+\float@box=\box53
+\@float@everytoks=\toks26
+\@floatcapt=\box54
+)
+(/Users/carmineminichini/Library/Application Support/MiKTeX/texmfs/install/tex/
+latex/base/fontenc.sty
+Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
+)
+(/Users/carmineminichini/Library/Application Support/MiKTeX/texmfs/install/tex/
+latex/listings/lstlang1.sty
+File: lstlang1.sty 2020/03/24 1.8d listings language file
+)
+(/Users/carmineminichini/Library/Application Support/MiKTeX/texmfs/install/tex/
+latex/listings/lstlang2.sty
+File: lstlang2.sty 2020/03/24 1.8d listings language file
+)
+(/Users/carmineminichini/Library/Application Support/MiKTeX/texmfs/install/tex/
+latex/listings/lstlang3.sty
+File: lstlang3.sty 2020/03/24 1.8d listings language file
+)
+(/Users/carmineminichini/Library/Application Support/MiKTeX/texmfs/install/tex/
+latex/subfigure/subfigure.sty
+Package: subfigure 2002/07/30 v2.1.4 subfigure package
+\subfigtopskip=\skip55
+\subfigcapskip=\skip56
+\subfigcaptopadj=\dimen184
+\subfigbottomskip=\skip57
+\subfigcapmargin=\dimen185
+\subfiglabelskip=\skip58
+\c@subfigure=\count284
+\c@lofdepth=\count285
+\c@subtable=\count286
+\c@lotdepth=\count287
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+
+(/Users/carmineminichini/Library/Application Support/MiKTeX/texmfs/install/tex/
+latex/subfigure/subfigure.cfg)
+\subfig@top=\skip59
+\subfig@bottom=\skip60
+)
+(/Users/carmineminichini/Library/Application Support/MiKTeX/texmfs/install/tex/
+latex/lipsum/lipsum.sty
+(/Users/carmineminichini/Library/Application Support/MiKTeX/texmfs/install/tex/
+latex/l3kernel/expl3.sty
+Package: expl3 2021-02-18 L3 programming layer (loader) 
+
+(/Users/carmineminichini/Library/Application Support/MiKTeX/texmfs/install/tex/
+latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2021-03-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count288
+\l__pdf_internal_box=\box55
+))
+(/Users/carmineminichini/Library/Application Support/MiKTeX/texmfs/install/tex/
+latex/l3packages/xparse/xparse.sty
+(/Users/carmineminichini/Library/Application Support/MiKTeX/texmfs/install/tex/
+latex/l3packages/xparse/xparse-2020-10-01.sty
+(/Users/carmineminichini/Library/Application Support/MiKTeX/texmfs/install/tex/
+latex/l3packages/xparse/xparse-generic.tex)))
+Package: lipsum 2021-03-03 v2.3 150 paragraphs of Lorem Ipsum dummy text
+
+(/Users/carmineminichini/Library/Application Support/MiKTeX/texmfs/install/tex/
+latex/lipsum/lipsum.ltd.tex
+File: lipsum.ltd.tex 2021-03-03 v2.3 The Lorem ipsum dummy text
+))
+(/Users/carmineminichini/Library/Application Support/MiKTeX/texmfs/install/tex/
+latex/base/inputenc.sty
+Package: inputenc 2020/08/01 v1.3d Input encoding file
+\inpenc@prehook=\toks27
+\inpenc@posthook=\toks28
+)
+(/Users/carmineminichini/Library/Application Support/MiKTeX/texmfs/install/tex/
+latex/hyperref/hyperref.sty
+Package: hyperref 2021-02-27 v7.00k Hypertext links for LaTeX
+
+(/Users/carmineminichini/Library/Application Support/MiKTeX/texmfs/install/tex/
+generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(/Users/carmineminichini/Library/Application Support/MiKTeX/texmfs/install/tex/
+generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/Users/carmineminichini/Library/Application Support/MiKTeX/texmfs/install/tex/
+generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/Users/carmineminichini/Library/Application Support/MiKTeX/texmfs/install/tex/
+generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(/Users/carmineminichini/Library/Application Support/MiKTeX/texmfs/install/tex/
+generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(/Users/carmineminichini/Library/Application Support/MiKTeX/texmfs/install/tex/
+generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(/Users/carmineminichini/Library/Application Support/MiKTeX/texmfs/install/tex/
+latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(/Users/carmineminichini/Library/Application Support/MiKTeX/texmfs/install/tex/
+latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(/Users/carmineminichini/Library/Application Support/MiKTeX/texmfs/install/tex/
+latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(/Users/carmineminichini/Library/Application Support/MiKTeX/texmfs/install/tex/
+latex/kvoptions/kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+)
+\@linkdim=\dimen186
+\Hy@linkcounter=\count289
+\Hy@pagecounter=\count290
+
+(/Users/carmineminichini/Library/Application Support/MiKTeX/texmfs/install/tex/
+latex/hyperref/pd1enc.def
+File: pd1enc.def 2021-02-27 v7.00k Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(/Users/carmineminichini/Library/Application Support/MiKTeX/texmfs/install/tex/
+latex/hyperref/hyperref-langpatches.def
+File: hyperref-langpatches.def 2021-02-27 v7.00k Hyperref: patches for babel la
+nguages
+)
+(/Users/carmineminichini/Library/Application Support/MiKTeX/texmfs/install/tex/
+generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(/Users/carmineminichini/Library/Application Support/MiKTeX/texmfs/install/tex/
+generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count291
+
+(/Users/carmineminichini/Library/Application Support/MiKTeX/texmfs/install/tex/
+latex/hyperref/puenc.def
+File: puenc.def 2021-02-27 v7.00k Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4192.
+Package hyperref Info: Link nesting OFF on input line 4197.
+Package hyperref Info: Hyper index ON on input line 4200.
+Package hyperref Info: Plain pages OFF on input line 4207.
+Package hyperref Info: Backreferencing OFF on input line 4212.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4445.
+\c@Hy@tempcnt=\count292
+
+(/Users/carmineminichini/Library/Application Support/MiKTeX/texmfs/install/tex/
+latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4804.
+\XeTeXLinkMargin=\dimen187
+
+(/Users/carmineminichini/Library/Application Support/MiKTeX/texmfs/install/tex/
+generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(/Users/carmineminichini/Library/Application Support/MiKTeX/texmfs/install/tex/
+generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count293
+\Field@Width=\dimen188
+\Fld@charsize=\dimen189
+Package hyperref Info: Hyper figures OFF on input line 6075.
+Package hyperref Info: Link nesting OFF on input line 6080.
+Package hyperref Info: Hyper index ON on input line 6083.
+Package hyperref Info: backreferencing OFF on input line 6090.
+Package hyperref Info: Link coloring OFF on input line 6095.
+Package hyperref Info: Link coloring with OCG OFF on input line 6100.
+Package hyperref Info: PDF/A mode OFF on input line 6105.
+LaTeX Info: Redefining \ref on input line 6145.
+LaTeX Info: Redefining \pageref on input line 6149.
+
+(/Users/carmineminichini/Library/Application Support/MiKTeX/texmfs/install/tex/
+latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi packa
+ge
+with kernel methods
+)
+\Hy@abspage=\count294
+\c@Item=\count295
+\c@Hfootnote=\count296
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(/Users/carmineminichini/Library/Application Support/MiKTeX/texmfs/install/tex/
+latex/hyperref/hpdftex.def
+File: hpdftex.def 2021-02-27 v7.00k Hyperref driver for pdfTeX
+
+(/Users/carmineminichini/Library/Application Support/MiKTeX/texmfs/install/tex/
+latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery packag
+e
+with kernel methods
+)
+\Fld@listcount=\count297
+\c@bookmark@seq@number=\count298
+
+(/Users/carmineminichini/Library/Application Support/MiKTeX/texmfs/install/tex/
+latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(/Users/carmineminichini/Library/Application Support/MiKTeX/texmfs/install/tex/
+generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip61
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 43.
+ (template_Article.aux)
+\openout1 = `template_Article.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+
+(/Users/carmineminichini/Library/Application Support/MiKTeX/texmfs/install/tex/
+context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count299
+\scratchdimen=\dimen190
+\scratchbox=\box56
+\nofMPsegments=\count300
+\nofMParguments=\count301
+\everyMPshowfont=\toks29
+\MPscratchCnt=\count302
+\MPscratchDim=\dimen191
+\MPnumerator=\count303
+\makeMPintoPDFobject=\count304
+\everyMPtoPDFconversion=\toks30
+)
+(/Users/carmineminichini/Library/Application Support/MiKTeX/texmfs/install/tex/
+latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/Users/carmineminichini/Library/Application Support/MiKTeX/texmfs/install/tex/
+latex/00miktex/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(113.81102pt, 369.88583pt, 113.81102pt)
+* v-part:(T,H,B)=(56.9055pt, 702.78308pt, 85.35826pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=369.88583pt
+* \textheight=702.78308pt
+* \oddsidemargin=41.54103pt
+* \evensidemargin=41.54103pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: subfigure package is loaded.
+Package caption Info: End \AtBeginDocument code.
+\c@lstlisting=\count305
+Package hyperref Info: Link coloring ON on input line 66.
+
+(/Users/carmineminichini/Library/Application Support/MiKTeX/texmfs/install/tex/
+latex/hyperref/nameref.sty
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
+
+(/Users/carmineminichini/Library/Application Support/MiKTeX/texmfs/install/tex/
+latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(/Users/carmineminichini/Library/Application Support/MiKTeX/texmfs/install/tex/
+generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count306
+)
+LaTeX Info: Redefining \ref on input line 66.
+LaTeX Info: Redefining \pageref on input line 66.
+LaTeX Info: Redefining \nameref on input line 66.
+ (template_Article.out)
+(template_Article.out)
+\@outlinefile=\write3
+\openout3 = `template_Article.out'.
+
+ (template_Article.toc
+LaTeX Font Info:    Trying to load font information for U+msa on input line 4.
+
+(/Users/carmineminichini/Library/Application Support/MiKTeX/texmfs/install/tex/
+latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 4.
+
+(/Users/carmineminichini/Library/Application Support/MiKTeX/texmfs/install/tex/
+latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+))
+\tf@toc=\write4
+\openout4 = `template_Article.toc'.
+
+ [1
+
+{/Users/carmineminichini/Library/Application Support/MiKTeX/texmfs/data/pdftex/
+config/pdftex.map}] (template_Article.lof)
+\tf@lof=\write5
+\openout5 = `template_Article.lof'.
+
+ [2]
+[3
+
+]
+Overfull \hbox (14.42773pt too wide) in paragraph at lines 98--109
+\T1/cmr/m/n/10 finanziario mediante strumenti econometrici. L'utilizzo di alcun
+i principi dell'econometria
+ []
+
+
+Overfull \hbox (23.0251pt too wide) in paragraph at lines 98--109
+\T1/cmr/m/n/10 finanziaria nel mondo del \T1/cmr/m/it/10 trading \T1/cmr/m/n/10
+ ha, negli anni, assunto un ruolo sempre più preponderante.
+ []
+
+
+Overfull \hbox (8.37366pt too wide) in paragraph at lines 98--109
+\T1/cmr/m/n/10 L'ultima sezione descrive la concreta applicazione del modello o
+perativo. In quest'ultima
+ []
+
+[4] [5] [6] [7]
+Overfull \hbox (7.16402pt too wide) in paragraph at lines 147--152
+\T1/cmr/m/n/10 processo,$\OML/cmm/m/it/10 []$\T1/cmr/m/n/10 , lineare staziona
+rio. Generalmente l'approccio per testare se la combinazione
+ []
+
+
+Overfull \hbox (10.78648pt too wide) in paragraph at lines 147--152
+\T1/cmr/m/n/10 anche \T1/cmr/bx/n/10 Engle-Granger two-step method \T1/cmr/m/n/
+10 prevede l'utilizzo di una particolare statistica
+ []
+
+
+Overfull \hbox (6.10568pt too wide) in paragraph at lines 147--152
+\T1/cmr/m/n/10 stazionari, come nel caso dei prezzi azionari), sebbene siano tr
+a di loro e individualmente
+ []
+
+[8]
+<download.png, id=226, 613.29124pt x 372.39125pt>
+File: download.png Graphic file (type png)
+<use download.png>
+Package pdftex.def Info: download.png  used on input line 158.
+(pdftex.def)             Requested size: 183.98878pt x 111.71823pt.
+
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 172.
+
+[9 <./download.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 214--222
+
+ []
+
+
+Overfull \hbox (8.79947pt too wide) in paragraph at lines 224--235
+\T1/cmr/m/n/10 (cioè, informazioni) del fenomeno oggetto di studio ogni volta c
+he una nuova osservazione
+ []
+
+[10] [11] [12]
+Overfull \hbox (9.56703pt too wide) in paragraph at lines 358--363
+[]$\OT1/cmr/m/n/10 [] \U/msa/m/n/10 , []$ \T1/cmr/m/n/10 questo specifica che 
+le varianze responsabili dell'incertezza 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 358--363
+
+ []
+
+[13] [14] [15]
+<dia_amp_logprezzi.png, id=302, 1003.75pt x 602.25pt>
+File: dia_amp_logprezzi.png Graphic file (type png)
+<use dia_amp_logprezzi.png>
+Package pdftex.def Info: dia_amp_logprezzi.png  used on input line 428.
+(pdftex.def)             Requested size: 258.91895pt x 155.3499pt.
+<dia_diff.png, id=303, 1003.75pt x 602.25pt>
+File: dia_diff.png Graphic file (type png)
+<use dia_diff.png>
+Package pdftex.def Info: dia_diff.png  used on input line 432.
+(pdftex.def)             Requested size: 258.91895pt x 155.3499pt.
+
+Overfull \hbox (14.8196pt too wide) in paragraph at lines 443--454
+ [][] 
+ []
+
+
+Overfull \hbox (39.20686pt too wide) in paragraph at lines 440--471
+[]$[]$ $[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 472--476
+
+ []
+
+[16 <./dia_amp_logprezzi.png> <./dia_diff.png>]
+Overfull \hbox (14.8196pt too wide) in paragraph at lines 484--495
+ [][] 
+ []
+
+
+Overfull \hbox (39.20686pt too wide) in paragraph at lines 481--512
+[]$[]$ $[]$
+ []
+
+
+Overfull \hbox (19.40799pt too wide) in paragraph at lines 513--518
+\T1/cmr/m/n/10 La Tabella [][]7[][] mostra i risultati della selezione ottenuta
+ mediante i passaggi precedentemente
+ []
+
+
+Overfull \hbox (0.16263pt too wide) in paragraph at lines 513--518
+\T1/cmr/m/n/10 nel \T1/cmr/m/it/10 formation period\T1/cmr/m/n/10 , l'ipotesi n
+ulla di presenza di radice unitaria e quindi a considerare
+ []
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 520.
+See the caption package documentation for explanation.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 523--523
+[]|\T1/cmr/m/n/10 ADF
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 523--523
+[]|\T1/cmr/m/n/10 p-
+ []
+
+
+Overfull \hbox (3.09444pt too wide) in paragraph at lines 521--531
+ [] 
+ []
+
+[17]
+Overfull \hbox (2.1411pt too wide) in paragraph at lines 552--554
+\T1/cmr/m/n/10 lineare il cui valore $\OML/cmm/m/it/10 z[]$\T1/cmr/m/n/10 , uni
+to a quelli precedenti, costituisce una serie storica stazionaria. 
+ []
+
+[18]
+Underfull \hbox (badness 10000) in paragraph at lines 579--581
+
+ []
+
+
+Overfull \hbox (8.92902pt too wide) in paragraph at lines 605--613
+\T1/cmr/m/n/10 standard dello spread calcolato nel \T1/cmr/m/it/10 formation pe
+riod\T1/cmr/m/n/10 . Tuttavia un problema dell'adottare
+ []
+
+
+Overfull \hbox (5.54102pt too wide) in paragraph at lines 605--613
+\T1/cmr/m/n/10 prefissato e costante per tutte le metodologie sviluppate. Tale 
+scelta ha due motivazioni: 
+ []
+
+[19]
+Underfull \hbox (badness 10000) in paragraph at lines 621--625
+
+ []
+
+[20] [21]
+Overfull \hbox (6.76709pt too wide) in paragraph at lines 685--686
+\T1/cmr/m/n/10 elimina l'onere di considerare fattori come il \T1/cmr/m/it/10 b
+id-ask spread \T1/cmr/m/n/10 , commissioni applicate
+ []
+
+
+Overfull \hbox (12.71518pt too wide) in paragraph at lines 689--691
+\T1/cmr/m/n/10 cointegrazione appare ragionevole alla luce della "non conoscenz
+a" del trader dell'effettiva
+ []
+
+
+Overfull \hbox (2.3905pt too wide) in paragraph at lines 699--700
+[]\T1/cmr/m/n/10 Le prestazioni di differenti strategie / portafogli, al fine d
+i valutare quale strategia
+ []
+
+
+Overfull \hbox (13.13431pt too wide) in paragraph at lines 702--703
+[]\T1/cmr/m/n/10 A tal fine possiamo distinguere due principali aspetti nella v
+alutazione di performance: 
+ []
+
+[22]
+Overfull \hbox (10.27133pt too wide) in paragraph at lines 708--728
+\T1/cmr/m/n/10 è diventata ormai multidimensionale nel tentativo di rispondere 
+a una semplice domanda:
+ []
+
+
+Overfull \hbox (9.26938pt too wide) in paragraph at lines 708--728
+\T1/cmr/m/n/10 investitore sia sostanzialmente \T1/cmr/m/it/10 avverso al risch
+io \T1/cmr/m/n/10 in quanto,questo,a parità di rendimento
+ []
+
+[23]
+Overfull \hbox (15.88474pt too wide) in paragraph at lines 738--741
+[]\T1/cmr/m/n/10 Sebbene sia largamente impiegato nella prassi, e fornisca una 
+giustificazione immediata
+ []
+
+
+Overfull \hbox (0.96805pt too wide) in paragraph at lines 738--741
+\T1/cmr/m/n/10 utilizzeremo misure di rischio annualizzate, nello specifico lo 
+Sharpe Ratio che andremo
+ []
+
+[24] [25]
+Overfull \hbox (1.55115pt too wide) in paragraph at lines 835--844
+\T1/cmr/m/it/10 reverting\T1/cmr/m/n/10 , condizione che a sua volta costituisc
+e l'elemento ideale per l'implementazione
+ []
+
+[26]
+Overfull \hbox (4.84904pt too wide) in paragraph at lines 848--849
+\T1/cmr/bx/n/10 DiaSorin S.p.A. \T1/cmr/m/n/10 e \T1/cmr/bx/n/10 Amplifon S.p.A
+.\T1/cmr/m/n/10 , entrambe operanti nel settore medico-sanitario. 
+ []
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 851.
+See the caption package documentation for explanation.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 854--854
+[]|\T1/cmr/m/n/10 ADF
+ []
+
+
+Overfull \hbox (7.7051pt too wide) in paragraph at lines 854--854
+\T1/cmr/m/n/10 Statistic| 
+ []
+
+
+Overfull \hbox (5.47305pt too wide) in paragraph at lines 862--870
+\T1/cmr/m/n/10 considerati i valori assunti dal vettore di cointegrazione $\OML
+/cmm/m/it/10 []$ \T1/cmr/m/n/10 riescano a rendere stazionarie
+ []
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 873.
+See the caption package documentation for explanation.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 876--876
+[]|\T1/cmr/m/n/10 Max
+ []
+
+
+Overfull \hbox (15.09442pt too wide) in paragraph at lines 874--883
+ [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 884--886
+
+ []
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 897.
+See the caption package documentation for explanation.
+
+[27]
+Underfull \hbox (badness 10000) in paragraph at lines 899--901
+
+ []
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 912.
+See the caption package documentation for explanation.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 915--917
+
+ []
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 928.
+See the caption package documentation for explanation.
+
+<dia_amp_kfspread.png, id=414, 1003.75pt x 602.25pt>
+File: dia_amp_kfspread.png Graphic file (type png)
+<use dia_amp_kfspread.png>
+Package pdftex.def Info: dia_amp_kfspread.png  used on input line 944.
+(pdftex.def)             Requested size: 295.90979pt x 177.54274pt.
+<dia_amp_lsspread.png, id=415, 1003.75pt x 602.25pt>
+File: dia_amp_lsspread.png Graphic file (type png)
+<use dia_amp_lsspread.png>
+Package pdftex.def Info: dia_amp_lsspread.png  used on input line 948.
+(pdftex.def)             Requested size: 295.90979pt x 177.54274pt.
+<dia_amp_rlspread.png, id=416, 1003.75pt x 602.25pt>
+File: dia_amp_rlspread.png Graphic file (type png)
+<use dia_amp_rlspread.png>
+Package pdftex.def Info: dia_amp_rlspread.png  used on input line 951.
+(pdftex.def)             Requested size: 295.90979pt x 177.54274pt.
+<dia_amp_alpha.png, id=417, 1003.75pt x 602.25pt>
+File: dia_amp_alpha.png Graphic file (type png)
+<use dia_amp_alpha.png>
+Package pdftex.def Info: dia_amp_alpha.png  used on input line 964.
+(pdftex.def)             Requested size: 295.90979pt x 177.54274pt.
+<dia_amp_beta.png, id=418, 1003.75pt x 602.25pt>
+File: dia_amp_beta.png Graphic file (type png)
+<use dia_amp_beta.png>
+Package pdftex.def Info: dia_amp_beta.png  used on input line 968.
+(pdftex.def)             Requested size: 295.90979pt x 177.54274pt.
+<dia_amp_portfolio.png, id=419, 1003.75pt x 602.25pt>
+File: dia_amp_portfolio.png Graphic file (type png)
+<use dia_amp_portfolio.png>
+Package pdftex.def Info: dia_amp_portfolio.png  used on input line 978.
+(pdftex.def)             Requested size: 301.12732pt x 180.67639pt.
+[28] [29 <./dia_amp_kfspread.png> <./dia_amp_lsspread.png> <./dia_amp_rlspread.
+png>] [30 <./dia_amp_alpha.png> <./dia_amp_beta.png> <./dia_amp_portfolio.png>]
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 993.
+See the caption package documentation for explanation.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 996--996
+[]|\T1/cmr/m/n/10 ADF
+ []
+
+
+Overfull \hbox (7.7051pt too wide) in paragraph at lines 996--996
+\T1/cmr/m/n/10 Statistic| 
+ []
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 1012.
+See the caption package documentation for explanation.
+
+
+Overfull \hbox (6.20546pt too wide) in paragraph at lines 1015--1015
+[]|\T1/cmr/m/n/10 Returns| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1023--1025
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1023--1025
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1023--1025
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1023--1025
+
+ []
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 1036.
+See the caption package documentation for explanation.
+
+[31]
+Underfull \hbox (badness 10000) in paragraph at lines 1038--1040
+
+ []
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 1051.
+See the caption package documentation for explanation.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1054--1056
+
+ []
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 1067.
+See the caption package documentation for explanation.
+
+<ucg_bpe_kfspread.png, id=458, 1003.75pt x 602.25pt>
+File: ucg_bpe_kfspread.png Graphic file (type png)
+<use ucg_bpe_kfspread.png>
+Package pdftex.def Info: ucg_bpe_kfspread.png  used on input line 1079.
+(pdftex.def)             Requested size: 295.90979pt x 177.54274pt.
+<ucg_bpe_lsspread.png, id=459, 1003.75pt x 602.25pt>
+File: ucg_bpe_lsspread.png Graphic file (type png)
+<use ucg_bpe_lsspread.png>
+Package pdftex.def Info: ucg_bpe_lsspread.png  used on input line 1083.
+(pdftex.def)             Requested size: 295.90979pt x 177.54274pt.
+<ucg_bpe_rlspread.png, id=460, 1003.75pt x 602.25pt>
+File: ucg_bpe_rlspread.png Graphic file (type png)
+<use ucg_bpe_rlspread.png>
+Package pdftex.def Info: ucg_bpe_rlspread.png  used on input line 1086.
+(pdftex.def)             Requested size: 295.90979pt x 177.54274pt.
+<ucg_bpe_alpha.png, id=461, 1003.75pt x 602.25pt>
+File: ucg_bpe_alpha.png Graphic file (type png)
+<use ucg_bpe_alpha.png>
+Package pdftex.def Info: ucg_bpe_alpha.png  used on input line 1101.
+(pdftex.def)             Requested size: 295.90979pt x 177.54274pt.
+<ucg_bpe_beta.png, id=462, 1003.75pt x 602.25pt>
+File: ucg_bpe_beta.png Graphic file (type png)
+<use ucg_bpe_beta.png>
+Package pdftex.def Info: ucg_bpe_beta.png  used on input line 1105.
+(pdftex.def)             Requested size: 295.90979pt x 177.54274pt.
+<ucg_bpe_portfolio.png, id=463, 1003.75pt x 602.25pt>
+File: ucg_bpe_portfolio.png Graphic file (type png)
+<use ucg_bpe_portfolio.png>
+Package pdftex.def Info: ucg_bpe_portfolio.png  used on input line 1115.
+(pdftex.def)             Requested size: 301.12732pt x 180.67639pt.
+[32] [33 <./ucg_bpe_kfspread.png> <./ucg_bpe_lsspread.png> <./ucg_bpe_rlspread.
+png>] [34 <./ucg_bpe_alpha.png> <./ucg_bpe_beta.png> <./ucg_bpe_portfolio.png>]
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 1126.
+See the caption package documentation for explanation.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1129--1129
+[]|\T1/cmr/m/n/10 ADF
+ []
+
+
+Overfull \hbox (7.7051pt too wide) in paragraph at lines 1129--1129
+\T1/cmr/m/n/10 Statistic| 
+ []
+
+
+Overfull \hbox (5.06427pt too wide) in paragraph at lines 1137--1148
+\T1/cmr/m/n/10 Banca Generali porti questo tipo di strategia ad essere perdente
+ per tutte le metodologie
+ []
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 1151.
+See the caption package documentation for explanation.
+
+
+Overfull \hbox (6.20546pt too wide) in paragraph at lines 1155--1155
+[]|\T1/cmr/m/n/10 Returns| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1163--1165
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1163--1165
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1163--1165
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1163--1165
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1163--1165
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1163--1165
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1163--1165
+
+ []
+
+[35]
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 1176.
+See the caption package documentation for explanation.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1178--1180
+
+ []
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 1191.
+See the caption package documentation for explanation.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1194--1196
+
+ []
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 1207.
+See the caption package documentation for explanation.
+
+<bmed_bgn_kfspread.png, id=504, 1003.75pt x 602.25pt>
+File: bmed_bgn_kfspread.png Graphic file (type png)
+<use bmed_bgn_kfspread.png>
+Package pdftex.def Info: bmed_bgn_kfspread.png  used on input line 1218.
+(pdftex.def)             Requested size: 295.90979pt x 177.54274pt.
+<bmed_bgn_lsspread.png, id=505, 1003.75pt x 602.25pt>
+File: bmed_bgn_lsspread.png Graphic file (type png)
+<use bmed_bgn_lsspread.png>
+Package pdftex.def Info: bmed_bgn_lsspread.png  used on input line 1222.
+(pdftex.def)             Requested size: 295.90979pt x 177.54274pt.
+<bmed_bgn_rlspread.png, id=506, 1003.75pt x 602.25pt>
+File: bmed_bgn_rlspread.png Graphic file (type png)
+<use bmed_bgn_rlspread.png>
+Package pdftex.def Info: bmed_bgn_rlspread.png  used on input line 1225.
+(pdftex.def)             Requested size: 295.90979pt x 177.54274pt.
+
+Overfull \hbox (7.10544pt too wide) in paragraph at lines 1209--1230
+\T1/cmr/m/n/10 rottura del legame di cointegrazione il metodo di Cointegrazione
+ ha un 17% di drawdown
+ []
+
+<bmed_bgn_alpha.png, id=507, 1003.75pt x 602.25pt>
+File: bmed_bgn_alpha.png Graphic file (type png)
+<use bmed_bgn_alpha.png>
+Package pdftex.def Info: bmed_bgn_alpha.png  used on input line 1239.
+(pdftex.def)             Requested size: 295.90979pt x 177.54274pt.
+<bmed_bgn_beta.png, id=508, 1003.75pt x 602.25pt>
+File: bmed_bgn_beta.png Graphic file (type png)
+<use bmed_bgn_beta.png>
+Package pdftex.def Info: bmed_bgn_beta.png  used on input line 1243.
+(pdftex.def)             Requested size: 295.90979pt x 177.54274pt.
+<bmed_bgn_portfolio.png, id=509, 1003.75pt x 602.25pt>
+File: bmed_bgn_portfolio.png Graphic file (type png)
+<use bmed_bgn_portfolio.png>
+Package pdftex.def Info: bmed_bgn_portfolio.png  used on input line 1253.
+(pdftex.def)             Requested size: 301.12732pt x 180.67639pt.
+[36] [37 <./bmed_bgn_kfspread.png> <./bmed_bgn_lsspread.png> <./bmed_bgn_rlspre
+ad.png>] [38 <./bmed_bgn_alpha.png> <./bmed_bgn_beta.png> <./bmed_bgn_portfolio
+.png>]
+Overfull \hbox (10.06305pt too wide) in paragraph at lines 1262--1263
+\T1/cmr/bx/n/10 S.p.A. \T1/cmr/m/n/10 e \T1/cmr/bx/n/10 Azimut Holding S.p.A.\T
+1/cmr/m/n/10 , entrambe operanti nel settore dei servizi finanziario-
+ []
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 1265.
+See the caption package documentation for explanation.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1268--1268
+[]|\T1/cmr/m/n/10 ADF
+ []
+
+
+Overfull \hbox (7.7051pt too wide) in paragraph at lines 1268--1268
+\T1/cmr/m/n/10 Statistic| 
+ []
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 1290.
+See the caption package documentation for explanation.
+
+
+Overfull \hbox (6.20546pt too wide) in paragraph at lines 1293--1293
+[]|\T1/cmr/m/n/10 Returns| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1301--1303
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1301--1303
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1301--1303
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1301--1303
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1301--1303
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1301--1303
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1301--1303
+
+ []
+
+[39]
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 1314.
+See the caption package documentation for explanation.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1316--1318
+
+ []
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 1329.
+See the caption package documentation for explanation.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1332--1334
+
+ []
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 1344.
+See the caption package documentation for explanation.
+
+<bmed_azm_kfspread.png, id=547, 1003.75pt x 602.25pt>
+File: bmed_azm_kfspread.png Graphic file (type png)
+<use bmed_azm_kfspread.png>
+Package pdftex.def Info: bmed_azm_kfspread.png  used on input line 1355.
+(pdftex.def)             Requested size: 295.90979pt x 177.54274pt.
+<bmed_azm_lspread.png, id=548, 1003.75pt x 602.25pt>
+File: bmed_azm_lspread.png Graphic file (type png)
+<use bmed_azm_lspread.png>
+Package pdftex.def Info: bmed_azm_lspread.png  used on input line 1359.
+(pdftex.def)             Requested size: 295.90979pt x 177.54274pt.
+<bmed_azm_rlspread.png, id=549, 1003.75pt x 602.25pt>
+File: bmed_azm_rlspread.png Graphic file (type png)
+<use bmed_azm_rlspread.png>
+Package pdftex.def Info: bmed_azm_rlspread.png  used on input line 1362.
+(pdftex.def)             Requested size: 295.90979pt x 177.54274pt.
+<bmed_azm_alpha.png, id=550, 1003.75pt x 602.25pt>
+File: bmed_azm_alpha.png Graphic file (type png)
+<use bmed_azm_alpha.png>
+Package pdftex.def Info: bmed_azm_alpha.png  used on input line 1376.
+(pdftex.def)             Requested size: 295.90979pt x 177.54274pt.
+<bmed_azm_beta.png, id=551, 1003.75pt x 602.25pt>
+File: bmed_azm_beta.png Graphic file (type png)
+<use bmed_azm_beta.png>
+Package pdftex.def Info: bmed_azm_beta.png  used on input line 1380.
+(pdftex.def)             Requested size: 295.90979pt x 177.54274pt.
+<bmed_azm_portfolio.png, id=552, 1003.75pt x 602.25pt>
+File: bmed_azm_portfolio.png Graphic file (type png)
+<use bmed_azm_portfolio.png>
+Package pdftex.def Info: bmed_azm_portfolio.png  used on input line 1390.
+(pdftex.def)             Requested size: 301.12732pt x 180.67639pt.
+[40] [41 <./bmed_azm_kfspread.png> <./bmed_azm_lspread.png> <./bmed_azm_rlsprea
+d.png>] [42 <./bmed_azm_alpha.png> <./bmed_azm_beta.png> <./bmed_azm_portfolio.
+png>]
+Overfull \hbox (15.20532pt too wide) in paragraph at lines 1400--1419
+\T1/cmr/m/n/10 ancora più necessaria dalle conclusioni di questo lavoro. Pertan
+to il risultato fondamentale
+ []
+
+[43] [44]
+Overfull \hbox (13.15736pt too wide) in paragraph at lines 1432--1433
+\T1/cmr/m/n/10 Dato uno spazio di probabilità $\OT1/cmr/m/n/10 (
+\OML/cmm/m/it/10 ; \OMS/cmsy/m/n/10 A\OML/cmm/m/it/10 ; P\OT1/cmr/m/n/10 )$\T1/
+cmr/m/n/10 , un processo stocastico discreto è una successione
+ []
+
+[45]
+Underfull \hbox (badness 10000) in paragraph at lines 1475--1482
+
+ []
+
+[46] [47] [48]
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 1
+586.
+
+(/Users/carmineminichini/Library/Application Support/MiKTeX/texmfs/install/tex/
+latex/base/t1cmtt.fd
+File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+Overfull \hbox (15.58377pt too wide) in paragraph at lines 1622--1623
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[49] [50]
+Overfull \hbox (9.9151pt too wide) in paragraph at lines 1669--1670
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (15.58377pt too wide) in paragraph at lines 1676--1677
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (66.6018pt too wide) in paragraph at lines 1677--1679
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (21.25244pt too wide) in paragraph at lines 1680--1682
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (55.26447pt too wide) in paragraph at lines 1699--1700
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[51]
+Overfull \hbox (83.60782pt too wide) in paragraph at lines 1711--1713
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+] 
+ []
+
+
+Overfull \hbox (55.26447pt too wide) in paragraph at lines 1714--1715
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (60.93314pt too wide) in paragraph at lines 1715--1717
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (89.27649pt too wide) in paragraph at lines 1718--1720
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[52] [53]
+Overfull \hbox (123.28851pt too wide) in paragraph at lines 1831--1832
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][] 
+ []
+
+
+Overfull \hbox (15.58377pt too wide) in paragraph at lines 1838--1839
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (83.60782pt too wide) in paragraph at lines 1839--1840
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][][][][][][][][][]
+ []
+
+[54]
+Overfull \hbox (43.92712pt too wide) in paragraph at lines 1862--1863
+[][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (94.94516pt too wide) in paragraph at lines 1864--1865
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (32.58978pt too wide) in paragraph at lines 1865--1866
+[][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[55]
+Overfull \hbox (94.94516pt too wide) in paragraph at lines 1899--1900
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
+[][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (49.5958pt too wide) in paragraph at lines 1901--1902
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (43.92712pt too wide) in paragraph at lines 1904--1905
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[56]
+Overfull \hbox (9.9151pt too wide) in paragraph at lines 1940--1941
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (49.5958pt too wide) in paragraph at lines 1942--1943
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (32.58978pt too wide) in paragraph at lines 1955--1956
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (9.9151pt too wide) in paragraph at lines 1969--1970
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (21.25244pt too wide) in paragraph at lines 1972--1973
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[57]
+Overfull \hbox (72.27048pt too wide) in paragraph at lines 1975--1976
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
+ 
+ []
+
+
+Overfull \hbox (134.62585pt too wide) in paragraph at lines 1990--1993
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (83.60782pt too wide) in paragraph at lines 1993--1994
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (60.93314pt too wide) in paragraph at lines 2003--2005
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (55.26447pt too wide) in paragraph at lines 2007--2008
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][] 
+ []
+
+[58]
+Overfull \hbox (55.26447pt too wide) in paragraph at lines 2023--2025
+[][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (9.9151pt too wide) in paragraph at lines 2029--2031
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (4.24643pt too wide) in paragraph at lines 2031--2032
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (72.27048pt too wide) in paragraph at lines 2049--2050
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (9.9151pt too wide) in paragraph at lines 2055--2056
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[59]
+Overfull \hbox (77.93915pt too wide) in paragraph at lines 2060--2062
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[60] [61]
+Overfull \hbox (21.25244pt too wide) in paragraph at lines 2146--2148
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (21.25244pt too wide) in paragraph at lines 2149--2150
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (94.94516pt too wide) in paragraph at lines 2165--2166
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (83.60782pt too wide) in paragraph at lines 2177--2178
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[62]
+Overfull \hbox (55.26447pt too wide) in paragraph at lines 2190--2191
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][] 
+ []
+
+[63] [64]
+Overfull \hbox (49.5958pt too wide) in paragraph at lines 2277--2278
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[65]
+Overfull \hbox (66.6018pt too wide) in paragraph at lines 2328--2330
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][] 
+ []
+
+[66] [67]
+Underfull \hbox (badness 1609) in paragraph at lines 2394--2396
+[]\T1/cmr/m/n/10 Gatev, E., Goetzmann,W. and Rouwenhorst, K. (2006) \T1/cmr/bx/
+n/10 Pairs Trading:
+ []
+
+
+Underfull \hbox (badness 1755) in paragraph at lines 2411--2413
+[]\T1/cmr/m/n/10 Vidyamurthyv G. (2004) \T1/cmr/bx/n/10 Pairs Trading, Quantita
+tive Methods and
+ []
+
+
+Underfull \hbox (badness 1237) in paragraph at lines 2415--2417
+[]\T1/cmr/m/n/10 Dickey D.A., Fuller W.A. (1979) \T1/cmr/bx/n/10 Distribution o
+f the Estimators for
+ []
+
+[68] [69] (template_Article.aux)
+Package rerunfilecheck Info: File `template_Article.out' has not changed.
+(rerunfilecheck)             Checksum: 4E6F268EACE041018A2D55E7C29AB1A4;5463.
+ ) 
+Here is how much of TeX's memory you used:
+ 15752 strings out of 481257
+ 238634 string characters out of 2905281
+ 684286 words of memory out of 3000000
+ 31697 multiletter control sequences out of 15000+600000
+ 420972 words of font info for 68 fonts, out of 8000000 for 9000
+ 0 hyphenation exceptions out of 8191
+ 71i,16n,75p,1107b,2573s stack positions out of 5000i,500n,10000p,200000b,80000s
+ </Users/carmineminichini/Library/Application Support/MiKTeX/texmfs/data/font
+s/pk/ljfour/jknappen/ec/dpi600/ectt0900.pk> </Users/carmineminichini/Library/Ap
+plication Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbi120
+0.pk> </Users/carmineminichini/Library/Application Support/MiKTeX/texmfs/data/f
+onts/pk/ljfour/jknappen/ec/dpi600/ecbi1000.pk> </Users/carmineminichini/Library
+/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm
+1000.pk> </Users/carmineminichini/Library/Application Support/MiKTeX/texmfs/dat
+a/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm0800.pk> </Users/carmineminichini/Libr
+ary/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/e
+crm0600.pk> </Users/carmineminichini/Library/Application Support/MiKTeX/texmfs/
+data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm0700.pk> </Users/carmineminichini/L
+ibrary/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi60
+0/ecbx1200.pk> </Users/carmineminichini/Library/Application Support/MiKTeX/texm
+fs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecti1000.pk> </Users/carmineminichin
+i/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dp
+i600/ecrm1000.pk> </Users/carmineminichini/Library/Application Support/MiKTeX/t
+exmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1000.pk> </Users/carmineminic
+hini/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec
+/dpi600/ecbx1440.pk></Users/carmineminichini/Library/Application Support/MiKTeX
+/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx10.pfb></Users/carmineminich
+ini/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfon
+ts/cm/cmbx7.pfb></Users/carmineminichini/Library/Application Support/MiKTeX/tex
+mfs/install/fonts/type1/public/amsfonts/cm/cmex10.pfb></Users/carmineminichini/
+Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/c
+m/cmmi10.pfb></Users/carmineminichini/Library/Application Support/MiKTeX/texmfs
+/install/fonts/type1/public/amsfonts/cm/cmmi7.pfb></Users/carmineminichini/Libr
+ary/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cm
+mi8.pfb></Users/carmineminichini/Library/Application Support/MiKTeX/texmfs/inst
+all/fonts/type1/public/amsfonts/cm/cmr10.pfb></Users/carmineminichini/Library/A
+pplication Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr5.pf
+b></Users/carmineminichini/Library/Application Support/MiKTeX/texmfs/install/fo
+nts/type1/public/amsfonts/cm/cmr7.pfb></Users/carmineminichini/Library/Applicat
+ion Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr8.pfb></Use
+rs/carmineminichini/Library/Application Support/MiKTeX/texmfs/install/fonts/typ
+e1/public/amsfonts/cm/cmsy10.pfb></Users/carmineminichini/Library/Application S
+upport/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy7.pfb></Users/c
+armineminichini/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/p
+ublic/amsfonts/symbols/msam10.pfb></Users/carmineminichini/Library/Application 
+Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on template_Article.pdf (69 pages, 2325448 bytes).
+PDF statistics:
+ 2244 PDF objects out of 2487 (max. 8388607)
+ 1021 named destinations out of 1200 (max. 500000)
+ 368 words of extra memory for PDF output out of 10000 (max. 10000000)
+
