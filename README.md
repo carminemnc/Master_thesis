@@ -1,4 +1,4 @@
-#### Master_thesis
+###Master_thesis
 Repository con codice R e Tesi Finale
 
 Questo lavoro ha l'obiettivo di sviluppare e analizzare una strategia di investimento finanziario mediante strumenti econometrici. L'utilizzo di alcuni principi dell'econometria finanziaria nel mondo del trading ha, negli anni, assunto un ruolo sempre più preponderante. La necessità di sviluppare strategie di investimento sempre più complesse, connesse
